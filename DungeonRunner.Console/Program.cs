@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace DungeonRunner.Console
+namespace DungeonRunner
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Testing");
         }
     }
 }
